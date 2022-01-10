@@ -262,12 +262,12 @@ margin-top: 35px;
 .buy-now-2 {
     margin-top: 200px;
     border: none;
-    width: 165px;
     height: 49px;
     border: 2px solid #D23166;
     box-sizing: border-box;
     border-radius: 5px;
     background: #D23166;
+    padding: 0px;
 }
 .buy-naw-text{
     text-decoration: none;
